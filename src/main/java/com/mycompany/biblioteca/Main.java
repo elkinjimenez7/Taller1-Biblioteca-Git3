@@ -8,7 +8,7 @@ package com.mycompany.biblioteca;
  *
  * @author elkin jimenez
  */
-public class Taller1BibliotecaGit3 {
+public class Main {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
